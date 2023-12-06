@@ -1,4 +1,4 @@
-package tn.esprit.rh.achat.entities;
+package tn.tekup.rh.achat.entities;
 
 public enum CategorieFournisseur {
 ORDINAIRE,CONVENTIONNE

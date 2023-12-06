@@ -1,4 +1,4 @@
-package tn.esprit.rh.achat.entities;
+package tn.tekup.rh.achat.entities;
 
 import java.io.Serializable;
 import javax.persistence.Entity;

@@ -1,9 +1,9 @@
-package tn.esprit.rh.achat.services;
+package tn.tekup.rh.achat.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import tn.esprit.rh.achat.entities.Operateur;
-import tn.esprit.rh.achat.repositories.OperateurRepository;
+import tn.tekup.rh.achat.entities.Operateur;
+import tn.tekup.rh.achat.repositories.OperateurRepository;
 
 import java.util.List;
 

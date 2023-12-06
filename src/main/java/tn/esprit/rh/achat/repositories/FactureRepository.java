@@ -1,12 +1,12 @@
-package tn.esprit.rh.achat.repositories;
+package tn.tekup.rh.achat.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
-import tn.esprit.rh.achat.entities.Facture;
-import tn.esprit.rh.achat.entities.Fournisseur;
+import tn.tekup.rh.achat.entities.Facture;
+import tn.tekup.rh.achat.entities.Fournisseur;
 
 import java.util.Date;
 import java.util.List;

@@ -1,6 +1,6 @@
-package tn.esprit.rh.achat.services;
+package tn.tekup.rh.achat.services;
 
-import tn.esprit.rh.achat.entities.Stock;
+import tn.tekup.rh.achat.entities.Stock;
 
 import java.util.List;
 

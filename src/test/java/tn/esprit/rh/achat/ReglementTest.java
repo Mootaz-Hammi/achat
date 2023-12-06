@@ -1,4 +1,4 @@
-package tn.esprit.rh.achat;
+package tn.tekup.rh.achat;
 import static org.mockito.Mockito.*;
 import static org.junit.Assert.*;
 import java.util.ArrayList;
@@ -11,9 +11,9 @@ import org.mockito.Mock;
 import org.mockito.junit.MockitoJUnitRunner;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import tn.esprit.rh.achat.controllers.ReglementRestController;
-import tn.esprit.rh.achat.entities.Reglement;
-import tn.esprit.rh.achat.services.IReglementService;
+import tn.tekup.rh.achat.controllers.ReglementRestController;
+import tn.tekup.rh.achat.entities.Reglement;
+import tn.tekup.rh.achat.services.IReglementService;
 //new commentaire
 // commentaire 2
 @RunWith(MockitoJUnitRunner.class)

@@ -1,15 +1,15 @@
-package tn.esprit.rh.achat.services;
+package tn.tekup.rh.achat.services;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import tn.esprit.rh.achat.entities.DetailFournisseur;
-import tn.esprit.rh.achat.entities.Fournisseur;
-import tn.esprit.rh.achat.entities.SecteurActivite;
-import tn.esprit.rh.achat.repositories.DetailFournisseurRepository;
-import tn.esprit.rh.achat.repositories.FournisseurRepository;
-import tn.esprit.rh.achat.repositories.ProduitRepository;
-import tn.esprit.rh.achat.repositories.SecteurActiviteRepository;
+import tn.tekup.rh.achat.entities.DetailFournisseur;
+import tn.tekup.rh.achat.entities.Fournisseur;
+import tn.tekup.rh.achat.entities.SecteurActivite;
+import tn.tekup.rh.achat.repositories.DetailFournisseurRepository;
+import tn.tekup.rh.achat.repositories.FournisseurRepository;
+import tn.tekup.rh.achat.repositories.ProduitRepository;
+import tn.tekup.rh.achat.repositories.SecteurActiviteRepository;
 
 import java.util.Date;
 import java.util.List;
