@@ -31,7 +31,7 @@ public class FournisseurRestController {
 	public Fournisseur retrieveFournisseur(@PathVariable("fournisseur-id") Long fournisseurId) {
 		return fournisseurService.retrieveFournisseur(fournisseurId);
 	}
-
+//
 	// http://localhost:8089/SpringMVC/fournisseur/add-fournisseur
 	@PostMapping("/add-fournisseur")
 	@ResponseBody
