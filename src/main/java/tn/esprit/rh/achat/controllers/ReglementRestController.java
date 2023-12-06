@@ -19,7 +19,7 @@ public class ReglementRestController {
     @Autowired
     IReglementService reglementService;
 
-
+//
     // http://localhost:8089/SpringMVC/reglement/add-reglement
     @PostMapping("/add-reglement")
     @ResponseBody
